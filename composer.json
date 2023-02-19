@@ -1,17 +1,17 @@
 {
 	"name": "vakata/jstree",
-	"description": "jsTree is jquery plugin, that provides interactive trees.",
+	"description": "پلاگین جیکوئری ساخت درخت واره ",
 	"type": "component",
 	"homepage": "http://jstree.com",
 	"license": "MIT",
 	"support": {
-		"issues": "https://github.com/vakata/jstree/issues",
+		"issues": "https://github.com/HassanDavoodi/jstree/issues",
 		"forum": "https://groups.google.com/forum/#!forum/jstree",
-		"source": "https://github.com/vakata/jstree"
+		"source": "https://github.com/HassanDavoodi/jstree"
 	},
 	"authors": [
 		{
-			"name": "Ivan Bozhanov",
+			"name": "Hassan Davoodi",
 			"email": "jstree@jstree.com"
 		}
 	],
